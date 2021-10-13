@@ -1,5 +1,5 @@
-name = input("Hi! What is your name?")
-favNum = input("What's your favorite number?")
+name = input("Hi! What is your name? ")
+favNum = input("What's your favorite number? ")
 
 favName = name + favNum
 print(favName)
