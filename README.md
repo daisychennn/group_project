@@ -1,9 +1,13 @@
 # group-project
-This is our program that asks the user for their favorite number and their name. It takes the user's imput to the two questions and combines them into one statement.
+This is our program that asks the user for their favorite number and their name. It takes the user's input to the two questions and combines them into one statement.
 
 ```python
-name = input("Hi! What is your name?") ## has the user input their name
+name = input("Hi! What is your name?") ## has the user input their name as a string
 favNum = input("What's your favorite number?") ## input of a number
+
+favName = name + favNum ## combines the input
+print(favName) ## prints input
+print("There! I just improved your name.")
 
 ```
 
