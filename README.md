@@ -1,2 +1,6 @@
-# lab-5
-this is our program that asks for your favorite number and name and combines them.
+# group-project
+This is our program that asks the user for their favorite number and their name. It takes the user's imput to the two questions and combines them into one statement.
+
+In order to install our software, you can use the command git clone followed by the URL of the repository on JupyterLab.
+
+
