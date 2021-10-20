@@ -1,0 +1,4 @@
+1. If the contributer has a history of submitting bad code, they may be barred from or less likely to be allowed to suggest changes in the the future. If a noticible change in coding ability is demonstrated, this may be reversed.
+2. All contributers must be respectful. No hateful or harmful behaviour will be tolerated. If the indiscretion is minor enough, and the offender appoligizes sincerely to the offended party, this may be reversed.
+3. Write code for readability above efficiency. This program is not large, so inefficiencies in how it runs will typically be inconsequential. We would rather know what the code does than have it run optimally.
+4. Do not edit or remove code without giving a reason. This is to promote growth for those whose code is being editted, and to manage code being editted for petty reasons.
